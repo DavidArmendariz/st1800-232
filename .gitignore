@@ -1,3 +1,4 @@
+.DS_STORE
 out
 datasets/doaj_1.csv
 datasets/metadata.csv
