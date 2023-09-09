@@ -5,3 +5,5 @@ datasets/metadata.csv
 datasets/metadata.csv.zip
 datasets/metadata50K.csv
 profe
+.DS_Store
+twitterClimateData.csv
